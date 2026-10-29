@@ -1,0 +1,9 @@
+faker>=40.43.0
+pandas>=3.1.0
+numpy>=2.5.4
+matplotlib>=3.11.2
+seaborn>=0.13.2
+dask[complete]>=2026.8.0
+ray>=2.59.0
+pyspark>=4.2.1
+tabulate>=0.10.0
